@@ -167,9 +167,9 @@ spx_historical_summary
 view(spx_historical_mutated)
 ```
 
-The annual return in the SPX price in 2020 was -9.389577%.
+The annual return in the SPX price in 2020 was 6.542629%.
 
-The corresponding price volatility was 10.481097%.
+The corresponding price volatility was 15.070205%.
 
 ### Exercise 9
 
